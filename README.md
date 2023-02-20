@@ -1,4 +1,4 @@
-# SupervisedModel_Traing-Testing
+# SupervisedModel_Training
 
 ## Description 
 
