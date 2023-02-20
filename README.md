@@ -1,4 +1,4 @@
-# SupervisedModel_Training
+# Supervised Model Training
 
 ## Description 
 
